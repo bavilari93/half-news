@@ -1,0 +1,23 @@
+*{
+	border: 0; 
+	margin:0; 
+	padding:0;
+}
+
+.container{
+	height: 100vh;
+	width: 100vw;
+	background-color: #cc9999;
+	&:before{
+		content:'';
+		position:relative; 
+		height:100vh; 
+		width:100vw; 
+		border:{
+			bottom:solid 100vh #ff9933;
+			left:solid 100vw #cc9999;
+			right: solid 100vw transparent;
+		}
+	box-shadow:  30px 30px 30px 30px white;
+	}
+}

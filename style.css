@@ -30,4 +30,14 @@ span {
   font-size: 5rem;
   line-height: 8rem; }
 
+button {
+  width: 7rem;
+  height: 1.8rem;
+  text-transform: uppercase;
+  align-self: center;
+  margin-top: .5rem;
+  z-index: 99;
+  color: white;
+  background-color: #cc0033; }
+
 /*# sourceMappingURL=style.css.map */

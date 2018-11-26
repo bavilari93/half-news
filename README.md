@@ -1,2 +1,2 @@
 # half-news
-partial background 
+triangle transformed background 
